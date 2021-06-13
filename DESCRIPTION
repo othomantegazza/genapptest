@@ -1,0 +1,17 @@
+Package: genapptest
+Title: An Amazing Shiny App
+Version: 0.0.0.9000
+Authors@R: 
+    person(given = "Otho",
+           family = "Mantegazza",
+           role = c("aut", "cre"),
+           email = "your@email.com")
+Description: This is just a test/exercise app to Visualize PCA on proteomic Data.
+License: MIT License
+Imports: 
+    config (>= 0.3.1),
+    golem (>= 0.3.1),
+    shiny (>= 1.6.0)
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.1.1
